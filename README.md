@@ -1,60 +1,33 @@
 # Hi, I'm Harsh 👋  
 
-Computer Science (Software Engineering) Student  
-Learning & building in Machine Learning, AI systems, QA engineering, and backend development  
+Computer Science (Software Engineering) student exploring  
+Machine Learning • AI Systems • Backend Development  
 
-I’m currently exploring and gaining hands-on experience in building AI-powered applications — working across model training, backend APIs, data workflows, and structured QA processes.  
-My goal is to understand how intelligent systems are designed, validated, and deployed in real-world environments.
-
----
-
-## 🧠 What I’m Working On
-
-- 🤖 Machine learning models & ranking systems  
-- 🎨 Generative AI pipelines (Stable Diffusion experiments)  
-- 📊 Data cleaning, preprocessing & model evaluation  
-- 🗄 Backend APIs using FastAPI  
-- 🧪 QA workflows, testing cycles & documentation frameworks  
+I’m learning to build intelligent systems — from model training and data workflows  
+to API integration and deployment-ready backend structures.
 
 ---
 
-## 🔬 Areas of Experience
-
-- End-to-end ML workflows (feature engineering → training → evaluation)  
-- API integration & backend structuring  
-- Database design & query optimization  
-- Agile-based development workflows  
-- Functional, regression & UI testing  
+## 🚀 Current Focus
+- Applied Machine Learning
+- Generative AI pipelines
+- FastAPI-based systems
+- Structured, production-ready projects
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:**  
-Python | SQL | Java | C/C++ | JavaScript | Bash  
-
-**ML/AI:**  
-TensorFlow | Scikit-learn | Model Training | Feature Engineering  
-
-**Backend & Systems:**  
-FastAPI | REST APIs | MySQL | Git  
+## 🛠 Tech
+Python • SQL • TensorFlow • Scikit-learn • FastAPI • MySQL • Git
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Stats
 
-- Strengthening applied AI engineering skills  
-- Building structured, production-ready academic projects  
-- Improving system design & backend architecture understanding  
-- Exploring scalable AI product development  
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshjyoti03&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjyoti03&layout=compact)
 
 ---
 
-## 📫 Connect With Me
-
+📫 Connect:  
 LinkedIn: https://linkedin.com/in/harsh-3b289024b  
-Email: radiant.harsh2013@gmail.com  
-
----
-
-> Learning. Building. Improving — one system at a time.
+Email: radiant.harsh2013@gmail.com

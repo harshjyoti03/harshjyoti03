@@ -9,25 +9,27 @@ to API integration and deployment-ready backend structures.
 ---
 
 ## 🚀 Current Focus
-- Applied Machine Learning
-- Generative AI pipelines
-- FastAPI-based systems
-- Structured, production-ready projects
+- Applied Machine Learning  
+- Generative AI pipelines  
+- FastAPI-based systems  
+- Structured, production-ready projects  
 
 ---
 
-## 🛠 Tech
-Python • SQL • TensorFlow • Scikit-learn • FastAPI • MySQL • Git
+## 🛠 Tech Stack
+Python • SQL • TensorFlow • Scikit-learn • FastAPI • MySQL • Git  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshjyoti03&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjyoti03&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshjyoti03&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjyoti03&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-📫 Connect:  
+📫 Connect with me  
 LinkedIn: https://linkedin.com/in/harsh-3b289024b  
 Email: radiant.harsh2013@gmail.com

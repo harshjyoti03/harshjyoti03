@@ -24,13 +24,21 @@ Python • SQL • TensorFlow • Scikit-learn • FastAPI • MySQL • Git
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshjyoti03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjyoti03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshjyoti03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshjyoti03&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshjyoti03&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 📫 Connect with me  
 LinkedIn: https://linkedin.com/in/harsh-3b289024b  
-Email: radiant.harsh2013@gmail.com
+Email: radiant.harsh2013@gmail.com  
+

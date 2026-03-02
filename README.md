@@ -8,7 +8,7 @@ to API integration and deployment-ready backend structures.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshjyoti03&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -17,7 +17,7 @@ to API integration and deployment-ready backend structures.
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harshjyoti03&theme=tokyonight&hide_border=true"/>
@@ -25,7 +25,7 @@ to API integration and deployment-ready backend structures.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 - Applied Machine Learning  
 - Generative AI pipelines  
 - FastAPI-based systems  
@@ -33,11 +33,11 @@ to API integration and deployment-ready backend structures.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 Python • SQL • TensorFlow • Scikit-learn • FastAPI • MySQL • Git  
 
 ---
 
-📫 Connect with me  
+Connect with me  
 LinkedIn: https://linkedin.com/in/harsh-3b289024b  
 Email: radiant.harsh2013@gmail.com  
